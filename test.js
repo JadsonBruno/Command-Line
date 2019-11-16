@@ -12,7 +12,7 @@ const DEFAULT_UPDATE_ITEM = {
   id: 2
 };
 
-const database = require("./database");
+const database = require("./database/database");
 
 describe("Hero manipulation testing suite", () => {
   before(async () => {

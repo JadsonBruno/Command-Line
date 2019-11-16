@@ -7,7 +7,7 @@ That is a simple Nodejs commando line created during the NodeBr course. With it,
 ### Installing
 
 ```
-	git clone [current url]
+	git clone https://github.com/JadsonBruno/Command-Line.git
 	cd folder-destination
 	npm install
 	npm start

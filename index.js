@@ -1,5 +1,5 @@
 const Commander = require("commander");
-const Database = require("./database");
+const Database = require("./database/database");
 const Hero = require("./Hero");
 
 async function main() {
